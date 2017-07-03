@@ -1,0 +1,4 @@
+webpage layout: https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/mocks/broadway.png
+
+redline: https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/mocks/broadway_redline.jpg
+
